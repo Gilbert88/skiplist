@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include <cstring>
-
+#include <vector>
 using namespace std;
 
 struct SkipNode
