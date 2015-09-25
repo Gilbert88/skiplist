@@ -1,4 +1,4 @@
 # skiplist
 efficient insert/lookup/delete
 
-TODO(gilbert): implement some functions
+TODO(gilbert): maybe more changes in next week
